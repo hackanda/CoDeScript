@@ -6,14 +6,14 @@
     
 **You will need the knowledge of libraries like:**
 
-1. **zipfile :** *reads the zipfile and used for working with files in it.*
+1. **zipfile :** *Reads the zipfile and used for working with files in it.*
 
-2. **pytesseract :** *takes an image and performs OCR on that image to gather the text.*
+2. **pytesseract :** *Takes an image and performs OCR on that image to gather the text.*
 
 3. **OpenCV :** *Computer Vision library to detect faces.*
 
 4. **Pillow :** *Library to crop the faces , draw rectangels on them , creating new images*
     
---> Try it on your own first. If not getting any idea , you can have a headstart with my code that I have provided with this repo. If any any update you want to include you can ask for a pull request and you can upgrade the code however you like.
+--> Try it on your own first. If you are not getting any idea , you can have a headstart with my code that I have provided with this repo. If any any update you want to include you can ask for a pull request and you can upgrade the code however you like.
 
 **All the files are already there in this repo . Try Working on it. Good Luck! :)**
