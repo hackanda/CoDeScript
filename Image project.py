@@ -56,9 +56,10 @@ def croppedfaces(image , sizes):   # Function to crop the faces from the main im
 def detectfaces(mylist): # This Function checks for the text from OCR and bind the image with it
     face_cord = []
     for image,text in mylist:
-        if 'Christopher' in text:
-            opencvImage = cv.cvtColor(np.array(image), cv.COLOR_BGR2GRAY) #converting pil to opencv image
+        if 'Christopher' in text:   # Checking for the keyword in the found text
+            opencvImage = cv.cvtColor(np.array(image), cv.COLOR_BGR2GRAY) # Converting Pil to OpenCV Image
             faces = face_cascade.detectMultiScale(opencvImage,1.15)
+#	      If you additionally want to print rectangles on the face deteccted , you can uncomment the below function.
 #             Makerec(image,faces.tolist()) # Function that prints rectangle on the faces
             face_cord += [[image,faces.tolist()]] # Creating the list of image with face cordinates
             
