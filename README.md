@@ -22,7 +22,7 @@
     
 --> Try it on your own first. If you are not getting any idea , you can have a headstart with my code that I have provided with this repo. If any any update you want to include you can ask for a pull request and you can upgrade the code however you like.
 
---> To access the HTML file. Clone this repository to you local system and then open the HTML file through your browser.*(If you directly try to open it, It will show the HTML code and not the actual output)*
+--> To access the HTML file. Clone this repository to you local device and then open the HTML file through your browser.*(If you directly try to open it, It will show the HTML code and not the actual output)*
 
 **All the files are already there in this repo . Try Working on it. Good Luck! :)**
 
