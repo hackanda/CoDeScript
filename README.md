@@ -25,7 +25,7 @@
 --> To access the HTML file. Clone this repository to you local device and then open the HTML file through your browser.*(If you directly try to open it, It will show the HTML code and not the actual output)*
 
 **All the files are already there in this repo . Try Working on it. Good Luck! :)**
-
+**Its a very good Project which covers many different topics of Python in one go.**
 ## Bugs
 * There are too many false positives in this method.
 * The Overall Code takes a lot of time to execute even for a single Time.
